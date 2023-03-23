@@ -1,5 +1,7 @@
 public class main {
     public static void main(String[] args) {
-        personagem personagem = new personagem()
+        Jogo jogo = new Jogo();
+
+        jogo.comecar();
     }
 }
