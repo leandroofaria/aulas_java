@@ -54,7 +54,4 @@ public class personagem {
         }
     }
 
-    public void mostrarMana() {
-        System.out.println("Mana atual: " + this.mana);
-    }
 }

@@ -17,9 +17,9 @@ public class Jogo {
 
     public Jogo() {
         timeAzul = new ArrayList<>();
-        timeAzul.add()
-        lux = new personagem("Lux", 510, 150);
+        timeAzul.add(new personagem("Lux", 510, 150));
         draven = new personagem("Draven", 510, 150);
+        timeAzul.add(draven);
 
     }
     
